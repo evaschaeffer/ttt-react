@@ -4,6 +4,10 @@ body {
   padding-top: 50px;
 }
 
+.row{
+  display: grid;
+  grid-template: auto/ auto auto auto;
+  }
 .content-area {
   margin: 30px;
 }
